@@ -121,20 +121,12 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 text="Commands ❓", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
-                text="Repo 🛠",
-                url="https://github.com/thehamkercat/WilliamButcherBot",
-            ),
-        ],
-        [
-            InlineKeyboardButton(
                 text="System Stats 🖥",
                 callback_data="stats_callback",
             ),
             InlineKeyboardButton(
-                text="Support 👨", url="http://t.me/WBBSupport"
+                text="OWNER ", url="http://t.me/am_dq_fan"
             ),
-        ],
-        [
             InlineKeyboardButton(
                 text="Add Me To Your Group 🎉",
                 url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
