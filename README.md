@@ -72,7 +72,7 @@ thehamkercat@arch:~$ python3 -m wbb
 
 ```console
 thehamkercat@arch:~$ git clone https://github.com/dqanshi/Testbot
-thehamkercat@arch:~$ cd WilliamButcherBot
+thehamkercat@arch:~$ cd Testbot
 thehamkercat@arch:~$ pip3 install pyrogram TgCrypto
 thehamkercat@arch:~$ python3 str_gen.py
 ```
